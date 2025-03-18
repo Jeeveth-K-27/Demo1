@@ -7,3 +7,5 @@
 7.git push origin main (origin here is the repository and main is the branch name)
 
 8.git full (to pull the newly added file from the repository)
+9.git init (changes an normal file into git supported file)
+10.git add . (send every modified data to the staging area)
