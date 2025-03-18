@@ -5,3 +5,5 @@
 5.git status (to check the status)
 6.git commit -m "test2.txt file created"
 7.git push origin main (origin here is the repository and main is the branch name)
+
+8.git full (to pull the newly added file from the repository)
