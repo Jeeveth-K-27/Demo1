@@ -6,7 +6,7 @@
 6.git commit -m "test2.txt file created"
 7.git push origin main (origin here is the repository and main is the branch name)
 
-8.git pull (to pull the newly added file from the repository)
+8.git pull (to pull the newly added file from the repository) //add origin (branch_name) to pull updates from other files
 9.git init (changes an normal file into git supported file)
 10.git add . (send every modified data to the staging area)
 
