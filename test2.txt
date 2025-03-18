@@ -1,0 +1,7 @@
+1.git clone https://github.com/Jeeveth-K-27/Demo1.git
+2.cd into created file
+3.created a new file(test2.txt)
+4.git add test2.txt (to add the new file to the waiting area)
+5.git status (to check the status)
+6.git commit -m "test2.txt file created"
+7.git push origin main (origin here is the repository and main is the branch name)
