@@ -6,6 +6,13 @@
 6.git commit -m "test2.txt file created"
 7.git push origin main (origin here is the repository and main is the branch name)
 
-8.git full (to pull the newly added file from the repository)
+8.git pull (to pull the newly added file from the repository)
 9.git init (changes an normal file into git supported file)
 10.git add . (send every modified data to the staging area)
+
+11.git branch -a (lists out all the branches which are present)
+12.git checkout (branchname) [used to move across different branches]
+13. git push origin (branchname) [used to push the changes in the desired branch]
+14. git diff (branchname) [used to check the changes occured in the specified branche]
+15.git merge (branchname) [used to merge the current branch with the specified branch]
+16. git branch (new-branch-name) [used to create a new branch]
