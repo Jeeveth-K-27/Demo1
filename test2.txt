@@ -11,8 +11,8 @@
 10.git add . (send every modified data to the staging area)
 
 11.git branch -a (lists out all the branches which are present)
-12.git checkout (branchname) [used to move across different branches]
-13. git push origin (branchname) [used to push the changes in the desired branch]
-14. git diff (branchname) [used to check the changes occured in the specified branche]
-15.git merge (branchname) [used to merge the current branch with the specified branch]
-16. git branch (new-branch-name) [used to create a new branch]
+12.git checkout (branch_name) [used to move across different branches]
+13. git push origin (branch_name) [used to push the changes in the desired branch]
+14. git diff (branch_name) [used to check the changes occured in the specified branche]
+15.git merge (branch_name) [used to merge the current branch with the specified branch]
+16. git branch (new_branch_name) [used to create a new branch]
